@@ -1,0 +1,32 @@
+# Git
+.git
+.gitignore
+
+# Environments
+.env
+.venv
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Frontend (Deploy separately to Vercel)
+frontend/
+
+# Local Vector DB & Raw Data (Not needed for deployed BM25 retriever)
+chroma_db/
+data/raw/
+
+# IDEs
+.vscode/
+.idea/
+.gemini/

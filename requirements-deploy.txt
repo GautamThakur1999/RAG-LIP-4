@@ -1,16 +1,9 @@
 requests
 beautifulsoup4
-pdfplumber
-pymupdf
 langchain-text-splitters
-sentence-transformers
-chromadb
 rank-bm25
 pydantic-settings
 python-dotenv
-streamlit
-pytest
-tqdm
 groq
 fastapi
 uvicorn

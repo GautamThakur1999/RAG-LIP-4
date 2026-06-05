@@ -1,0 +1,40 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-green: #00D09C;
+  --color-brand-green-hover: #00BA8C;
+  --color-brand-green-light: #003326; /* Darkened for dark mode */
+  
+  --color-bg-page: #0f1115; /* Main background */
+  --color-bg-surface: #1a1d24; /* Cards, Sidebar, Nav */
+  --color-bg-chat: #14171c; /* Chat bubble background */
+  
+  --color-gray-bg: #14171c; /* Kept for compatibility but darker */
+  --color-gray-border: #2B303B;
+  
+  --color-text-main: #FFFFFF;
+  --color-text-secondary: #9BA1A6;
+  --color-text-helper: #687076;
+
+  --font-heading: "Hanken Grotesk", sans-serif;
+  --font-body: "Inter", sans-serif;
+}
+
+@layer base {
+  :root {
+    --background: var(--color-bg-page);
+    --foreground: var(--color-text-main);
+  }
+
+  body {
+    background-color: var(--background);
+    color: var(--foreground);
+    font-family: var(--font-body);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-heading);
+  }
+}

@@ -1,10 +1,12 @@
 import os
 import pickle
-import chromadb
+# NOTE: This retriever is BM25-only at runtime (no dense embeddings / ChromaDB),
+# so heavy deps (chromadb, sentence-transformers, torch) are intentionally NOT
+# imported here. This keeps the deployed backend slim. Do not add a top-level
+# `import chromadb` back — it would break the slim Railway deploy.
 from src.retrieve.scheme_match import detect_scheme
 
 DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(__file__))), "data")
-CHROMA_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(__file__))), "chroma_db")
 BM25_FILE = os.path.join(DATA_DIR, "bm25_index.pkl")
 
 # We import settings locally or define here
@@ -87,7 +89,7 @@ class HybridRetriever:
         }
 
 if __name__ == "__main__":
-    print("Testing Retriever module initialization (will fail gracefully if PyTorch/Chroma not ready)")
+    print("Testing Retriever module initialization (BM25-only; fails gracefully if index missing)")
     retriever = HybridRetriever()
     if retriever.initialized:
         print("Running sample query: 'What is the expense ratio for bluechip?'")

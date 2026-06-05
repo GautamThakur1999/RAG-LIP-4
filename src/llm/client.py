@@ -10,7 +10,7 @@ class GroqClient:
     def __init__(self):
         # We allow it to instantiate even if key is empty (for testing)
         self.api_key = settings.groq_api_key or os.getenv("GROQ_API_KEY", "")
-        self.model = "llama-3.3-70b-versatile" # Hardcoded to bypass env caching
+        self.model = "llama-3.1-8b-instant" # Switched to 8b to bypass 70b rate limits
         
         if self.api_key:
             self.client = Groq(api_key=self.api_key)

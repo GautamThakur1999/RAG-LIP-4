@@ -342,6 +342,21 @@ The plan is split into small phases so the AI agent stays accurate. Working meth
 - Dense-only retrieval mixes similar schemes — keep hybrid + metadata filter.
 - Only Direct–Growth is indexed; redirect Regular/IDCW queries to the official page.
 - Never hardcode a fund figure as truth in code or tests — figures come from the live corpus.
+
+---
+
+## 14. Phase 9 — Next.js UI Migration (Frontend/Backend Split)
+
+**Goal:** Transition the monolithic Streamlit application to a separated Next.js frontend and FastAPI backend based on the Luminous Finance Assistant design.
+
+**Steps**
+
+1. **Backend API (`app/api.py`)** — Create a FastAPI application with endpoints for Chat (`POST /api/chat`) and Sources (`GET /api/sources`). Enable CORS.
+2. **Frontend Initialization (`frontend/`)** — Use `npx create-next-app` to scaffold a Next.js application.
+3. **Design System Integration** — Implement `DESIGN.md` tokens (Growth Green, Hanken Grotesk, Inter) using CSS Modules or Tailwind.
+4. **Pages Implementation** — Build the Home page, Chat interface, and Source Hub.
+5. **Connectivity Testing** — Connect the Next.js frontend to the local FastAPI backend and test the complete RAG pipeline.
+
 - Verify generated URLs are real and official before trusting them (LLMs invent links).
 
 ```
