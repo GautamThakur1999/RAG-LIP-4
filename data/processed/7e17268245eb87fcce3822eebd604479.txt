@@ -1,0 +1,1934 @@
+URL: https://groww.in/mutual-funds/icici-prudential-balanced-direct-growth
+Type: overview
+Scheme: balanced
+Fetched: 2026-06-05 13:16:02
+As On Date: 04 Jun 2026
+----------------------------------------
+ICICI Prudential Equity & Debt Fund Direct Growth - NAV, Mutual Fund Performance & Portfolio
+Stocks
+Invest in Stocks
+Invest in stocks, ETFs, IPOs with fast orders. Track returns on your stock holdings and view real-time P&L on your positions.
+Intraday
+Monitor top intraday performers in real time
+ETF Screener
+Get the best of Mutual Funds and flexibility of Stocks
+IPO
+Track upcoming and ongoing IPOs
+MTFs
+Buy now, pay later
+Stock Screener
+Filter based on RSI, PE ratio and more
+Stock Events
+Dividends, bonus, buybacks and more
+Demat Account
+Begin your stock market journey
+Share Market Today
+Live news updates from stock market
+F&O
+Trade in Futures & Options
+Trade in F&O using the terminal. View charts, indicators, track your orders , P&L and watchlists in a single space
+Indices
+Track markets across the globe
+Terminal
+Track charts, orders, positions, watchlists in one place
+Option chain
+Analyse chains, view payoffs, create baskets
+Pledge
+Get extra balance for trading
+Commodities
+Trade in Crude Oil, Gold, Silver and more
+API trading
+Set up and execute trades through our API
+Mutual Funds
+Invest in Mutual Funds
+Invest in direct mutual funds at zero charges via lump sump investments or SIPs
+Mutual Fund Houses
+Know about AMCs, funds, fund managers
+NFO’s
+Track all active NFOs in one place
+Mutual Funds by Groww
+Mutual funds by Groww designed for your investment goals
+Start SIP
+Build long-term wealth through disciplined monthly investing.
+Mutual Funds screener
+Filter funds based on risk, fund size and more
+Track Funds
+Import funds and track all investments in a single place
+Compare Funds
+More
+SIP calculator
+Estimate returns on a SIP
+Brokerage calculator
+Estimate charges for your trade/investment
+Margin calculator
+Estimate balance needed to buy/sell a stock
+SWP calculator
+Returns on your systematic withdrawal plan
+Pricing
+Brokerage and charges on Groww
+Blog
++16.49
+%
+3Y annualised
++0.07
+%
+1D
+1M
+6M
+1Y
+3Y
+5Y
+All
+NAV: 04 Jun '26
+₹437.17
+Min. for SIP
+₹100
+Fund size (AUM)
+₹50,367.73 Cr
+Expense ratio
+0.92%
+Rating
+5
+Return calculator
+Monthly SIP
+One time
+Monthly investment
+₹5,000
+Over the past
+Total investment
+Would've become
+Historic returns
+Returns
+1 year
+₹60,000
+₹59,209
+-1.32
+%
+3 years
+₹1,80,000
+₹2,02,091
++
+12.27
+%
+5 years
+₹3,00,000
+₹4,15,970
++
+38.66
+%
+10 years
+₹6,00,000
+₹13,93,440
++
+132.24
+%
+Holdings (
+254
+)
+Name
+Sector
+Instruments
+Assets
+HDFC Bank Ltd.
+Financial
+Equity
+5.62%
+Reliance Industries Ltd.
+Energy
+Equity
+5.07%
+ICICI Bank Ltd.
+Financial
+Equity
+4.87%
+NTPC Ltd.
+Energy
+Equity
+4.34%
+Sun Pharmaceutical Industries Ltd.
+Healthcare
+Equity
+4.33%
+Avenue Supermarts Ltd.
+Services
+Equity
+2.88%
+Axis Bank Ltd.
+Financial
+Equity
+2.83%
+TVS Motor Company Ltd.
+Automobile
+Equity
+2.76%
+Interglobe Aviation Ltd.
+Services
+Equity
+2.23%
+Tata Consultancy Services Ltd.
+Technology
+Equity
+2.04%
+Hindustan Unilever Ltd.
+Consumer Staples
+Equity
+1.82%
+Maruti Suzuki India Ltd.
+Automobile
+Equity
+1.74%
+Bharti Airtel Ltd.
+Communication
+Equity
+1.70%
+Larsen & Toubro Ltd.
+Construction
+Equity
+1.57%
+Oil And Natural Gas Corporation Ltd.
+Energy
+Equity
+1.37%
+ITC Ltd.
+Consumer Staples
+Equity
+1.33%
+Eternal Ltd.
+Services
+Equity
+1.24%
+GOI
+Sovereign
+GOI Sec
+1.17%
+SBI Life Insurance Company Ltd.
+Insurance
+Equity
+1.10%
+Infosys Ltd.
+Technology
+Equity
+1.08%
+Embassy Office Parks REIT
+Construction
+REITs
+1.08%
+GOI
+Sovereign
+GOI Sec
+1.03%
+REC Ltd.
+Financial
+Equity
+0.84%
+Ultratech Cement Ltd.
+Construction
+Equity
+0.82%
+Britannia Industries Ltd.
+Consumer Staples
+Equity
+0.80%
+Ambuja Cements Ltd.
+Construction
+Equity
+0.75%
+Samvardhana Motherson International Ltd.
+Automobile
+Equity
+0.74%
+Kalpataru Projects International Ltd.
+Capital Goods
+Equity
+0.72%
+State Bank of India
+Financial
+Equity
+0.71%
+Kotak Mahindra Bank Ltd.
+Financial
+Equity
+0.70%
+Indusind Bank Ltd.
+Financial
+Equity
+0.65%
+Tech Mahindra Ltd.
+Technology
+Equity
+0.61%
+Dr. Reddy's Laboratories Ltd.
+Healthcare
+Equity
+0.58%
+HDFC Bank Ltd.
+Financial
+CD
+0.56%
+Samvardhana Motherson International Ltd.
+Automobile
+Debenture
+0.56%
+Inox Wind Ltd.
+Capital Goods
+Equity
+0.56%
+Mahindra & Mahindra Ltd.
+Automobile
+Equity
+0.55%
+Muthoot Finance Ltd.
+Financial
+NCD
+0.55%
+Life Insurance Corporation of India
+Insurance
+Equity
+0.54%
+Info Edge (India) Ltd.
+Services
+Equity
+0.54%
+Mindspace Business Parks REIT
+Construction
+REITs
+0.53%
+Chalet Hotels Ltd.
+Services
+Equity
+0.52%
+Export-Import Bank Of India
+Financial
+CD
+0.47%
+Punjab National Bank
+Financial
+CD
+0.42%
+Shree Cement Ltd.
+Construction
+Futures
+0.42%
+Trent Ltd.
+Services
+Equity
+0.41%
+Reserve Bank of India
+Financial
+T-Bills
+0.40%
+GOI
+Sovereign
+GOI Sec
+0.39%
+Indian Railway Catering & Tourism Corporation Ltd.
+Services
+Equity
+0.39%
+Mphasis Ltd.
+Technology
+Equity
+0.38%
+Madhya Pradesh State
+Others
+SDL
+0.38%
+Punjab National Bank
+Financial
+CD
+0.38%
+Bank Of Baroda
+Financial
+CD
+0.37%
+Rajasthan State
+Others
+SDL
+0.37%
+India Universal Trust AL1
+Others
+Sec. Debt
+0.37%
+Tata Motors Ltd.
+Automobile
+Equity
+0.36%
+Bharti Telecom Ltd.
+Communication
+Debenture
+0.36%
+Adani Ports and Special Economic Zone Ltd.
+Services
+Equity
+0.35%
+Marico Ltd.
+Consumer Staples
+Equity
+0.34%
+Gland Pharma Ltd.
+Healthcare
+Equity
+0.33%
+Madhya Pradesh State
+Others
+SDL
+0.32%
+Leela Palaces Hotels & Resorts Ltd.
+Services
+Equity
+0.32%
+UPL Ltd.
+Chemicals
+Equity
+0.31%
+Oil India Ltd.
+Energy
+Equity
+0.31%
+Techno Electric & Engineering Company Ltd.
+Capital Goods
+Equity
+0.31%
+Muthoot Finance Ltd.
+Financial
+Debenture
+0.30%
+Manappuram Finance Ltd.
+Financial
+NCD
+0.30%
+360 ONE Wealth Ltd.
+Financial
+NCD
+0.30%
+Bandhan Bank Ltd.
+Financial
+Equity
+0.29%
+Bharat Heavy Electricals Ltd.
+Capital Goods
+Equity
+0.29%
+Rajasthan State
+Others
+SDL
+0.29%
+PI Industries Ltd.
+Chemicals
+Equity
+0.29%
+Canara Bank
+Financial
+CD
+0.28%
+Small Industries Devp. Bank of India Ltd.
+Financial
+CP
+0.28%
+National Bank For Agriculture & Rural Development
+Financial
+CD
+0.28%
+Central Mine Planning & Design Institute Ltd.
+Energy
+Equity
+0.28%
+Union Bank of India
+Financial
+CD
+0.28%
+Oberoi Realty Ltd.
+Construction
+Equity
+0.26%
+ABB India Ltd.
+Capital Goods
+Equity
+0.26%
+Emmvee Photovoltaic Power Ltd.
+Energy
+Equity
+0.25%
+Small Industries Devp. Bank of India Ltd.
+Financial
+Debenture
+0.25%
+Biocon Ltd.
+Healthcare
+Equity
+0.25%
+Physicswallah Ltd.
+Services
+Equity
+0.25%
+Adani Enterprises Ltd.
+Services
+NCD
+0.25%
+Suzlon Energy Ltd.
+Capital Goods
+Equity
+0.24%
+Maharashtra State
+Others
+SDL
+0.24%
+Yes Bank Ltd.
+Financial
+Bonds
+0.24%
+Indian Oil Corporation Ltd.
+Energy
+Equity
+0.23%
+India Universal Trust AL1
+Others
+Sec. Debt
+0.23%
+Cholamandalam Investment and Finance Company Ltd.
+Financial
+Equity
+0.23%
+Tega Industries Ltd.
+Metals & Mining
+Equity
+0.23%
+Rajasthan State
+Others
+SDL
+0.23%
+ICICI Prudential Life Insurance Company Ltd.
+Insurance
+Equity
+0.22%
+LG Electronics India Ltd.
+Consumer Discretionary
+Equity
+0.22%
+Cohance Lifesciences Ltd.
+Healthcare
+Equity
+0.22%
+NCC Ltd.
+Construction
+Equity
+0.22%
+Jubilant FoodWorks Ltd.
+Services
+Equity
+0.21%
+Bajaj Finserv Ltd.
+Financial
+Equity
+0.21%
+Kajaria Ceramics Ltd.
+Construction
+Equity
+0.21%
+Bajaj Auto Ltd.
+Automobile
+Equity
+0.20%
+GAIL (India) Ltd.
+Energy
+Equity
+0.20%
+Tata Motors Finance Ltd.
+Financial
+ZCB
+0.20%
+Medplus Health Services Ltd.
+Healthcare
+Equity
+0.20%
+Indostar Capital Finance Ltd.
+Financial
+NCD
+0.20%
+Muthoot Finance Ltd.
+Financial
+NCD
+0.20%
+Muthoot Finance Ltd.
+Financial
+Debenture
+0.20%
+Bamboo Hotel And Global Centre (Delhi) Pvt Ltd. Class A
+Services
+Debenture
+0.20%
+Vedanta Ltd.
+Metals & Mining
+Debenture
+0.20%
+Avanse Financial Services Ltd.
+Financial
+NCD
+0.20%
+Reserve Bank of India
+Financial
+T-Bills
+0.20%
+Reserve Bank of India
+Financial
+T-Bills
+0.20%
+Oberoi Realty Ltd.
+Construction
+NCD
+0.20%
+Vedanta Ltd.
+Metals & Mining
+Debenture
+0.20%
+Power Finance Corporation Ltd.
+Financial
+Debenture
+0.20%
+Manappuram Finance Ltd.
+Financial
+NCD
+0.20%
+Brookfield India Real Estate Trust REIT
+Construction
+REITs
+0.20%
+Mahindra Lifespace Developers Ltd.
+Construction
+Equity
+0.20%
+Himachal Pradesh State
+Others
+SDL
+0.19%
+HCL Technologies Ltd.
+Technology
+Equity
+0.19%
+Rajasthan State
+Others
+SDL
+0.19%
+Tamilnadu State
+Others
+SDL
+0.19%
+Uttar Pradesh State
+Others
+SDL
+0.19%
+Madhya Pradesh State
+Others
+SDL
+0.19%
+DLF Cyber City Developers Ltd.
+Construction
+NCD
+0.19%
+Small Industries Devp. Bank of India Ltd.
+Financial
+CD
+0.19%
+Small Industries Devp. Bank of India Ltd.
+Financial
+CD
+0.19%
+HDFC Bank Ltd.
+Financial
+CD
+0.19%
+Aditya Vision Ltd.
+Services
+Equity
+0.18%
+Jubilant FoodWorks Ltd.
+Services
+Futures
+0.18%
+Titan Company Ltd.
+Consumer Discretionary
+Equity
+0.18%
+HDFC Life Insurance Co Ltd.
+Insurance
+Equity
+0.18%
+Telangana State
+Financial
+SDL
+0.17%
+Pidilite Industries Ltd.
+Chemicals
+Equity
+0.17%
+Andhra Pradesh State
+Financial
+SDL
+0.17%
+Andhra Pradesh State
+Financial
+SDL
+0.17%
+India Universal Trust AL1
+Others
+Sec. Debt
+0.17%
+GOI
+Sovereign
+GOI FRB
+0.17%
+Apollo Tyres Ltd.
+Automobile
+Equity
+0.17%
+Tata Power Company Ltd.
+Energy
+Equity
+0.16%
+Altius Telecom Infrastructure Trust
+Construction
+InvITs
+0.16%
+DLF Ltd.
+Construction
+Equity
+0.15%
+India Universal Trust AL1
+Others
+Sec. Debt
+0.15%
+Muthoot Finance Ltd.
+Financial
+Debenture
+0.15%
+JM Financial Credit Solutions Ltd.
+Financial
+NCD
+0.15%
+Powerica Ltd.
+Capital Goods
+Equity
+0.15%
+Reserve Bank of India
+Financial
+T-Bills
+0.15%
+SBI Cards And Payment Services Ltd.
+Financial
+Futures
+0.14%
+Tata Communications Ltd.
+Communication
+Equity
+0.14%
+The Phoenix Mills Ltd.
+Construction
+Equity
+0.14%
+Bank Of Baroda
+Financial
+CD
+0.14%
+GOI
+Sovereign
+GOI Sec
+0.14%
+Motherson Sumi Wiring India Ltd.
+Automobile
+Equity
+0.14%
+Madhya Pradesh State
+Others
+SDL
+0.14%
+Small Industries Devp. Bank of India Ltd.
+Financial
+Bonds
+0.14%
+Gujarat Gas Ltd.
+Energy
+Equity
+0.13%
+Canara HSBC Life Insurance Company Ltd.
+Insurance
+Equity
+0.12%
+Akums Drugs And Pharmaceuticals Ltd.
+Healthcare
+Equity
+0.12%
+United Breweries Ltd.
+Consumer Staples
+Equity
+0.12%
+Siemens Energy India Ltd.
+Energy
+Equity
+0.12%
+JSW Dulux Ltd.
+Chemicals
+Equity
+0.12%
+Blue Star Ltd.
+Consumer Discretionary
+Equity
+0.12%
+Siemens Ltd.
+Capital Goods
+Futures
+0.11%
+Container Corporation Of India Ltd.
+Services
+Equity
+0.11%
+PVR Inox Ltd.
+Services
+Equity
+0.11%
+Brainbees Solutions Ltd.
+Consumer Staples
+Equity
+0.10%
+HDB Financial Services Ltd.
+Financial
+Equity
+0.10%
+Godrej Properties Ltd.
+Construction
+Debenture
+0.10%
+Muthoot Finance Ltd.
+Financial
+NCD
+0.10%
+National Bank For Agriculture & Rural Development
+Financial
+Bonds
+0.10%
+Motilal Oswal Financial Services Ltd.
+Financial
+NCD
+0.10%
+Rajasthan State
+Others
+SDL
+0.10%
+Canara Bank
+Financial
+CD
+0.09%
+Infosys Ltd.
+Technology
+Futures
+0.09%
+Canara Bank
+Financial
+CD
+0.09%
+Haryana State
+Others
+SDL
+0.09%
+Maharashtra State
+Others
+SDL
+0.09%
+Maharashtra State
+Others
+SDL
+0.09%
+National Bank For Agriculture & Rural Development
+Financial
+CD
+0.09%
+Union Bank of India
+Financial
+CD
+0.09%
+EIH Ltd.
+Services
+Equity
+0.09%
+Sansar Trust
+Others
+Sec. Debt
+0.08%
+CMS Info Systems Ltd.
+Services
+Equity
+0.08%
+Telangana State
+Financial
+SDL
+0.08%
+Indus Infra Trust
+Construction
+InvITs
+0.08%
+Maharashtra State
+Others
+SDL
+0.08%
+National Bank For Agriculture & Rural Development
+Financial
+CD
+0.08%
+Rajasthan State
+Others
+SDL
+0.08%
+Equitas Small Finance Bank Ltd.
+Financial
+Equity
+0.07%
+TeamLease Services Ltd.
+Services
+Equity
+0.07%
+Bahadur Chand Investments Pvt. Ltd.
+Financial
+Debenture
+0.07%
+Bahadur Chand Investments Pvt. Ltd.
+Financial
+Debenture
+0.07%
+Bharat Petroleum Corporation Ltd.
+Energy
+Equity
+0.07%
+Tyger Capital Pvt. Ltd.
+Financial
+NCD
+0.07%
+Tyger Capital Pvt. Ltd.
+Financial
+NCD
+0.07%
+KNR Constructions Ltd.
+Construction
+Equity
+0.07%
+JSW Cement Ltd.
+Construction
+Equity
+0.07%
+Voltas Ltd.
+Consumer Discretionary
+Futures
+0.06%
+Reserve Bank of India
+Financial
+T-Bills
+0.06%
+Nexus Select Trust
+Construction
+REITs
+0.06%
+Mankind Pharma Ltd.
+Healthcare
+Debenture
+0.06%
+Haryana State
+Others
+SDL
+0.06%
+Andhra Pradesh State
+Financial
+SDL
+0.05%
+Haryana State
+Others
+SDL
+0.05%
+Somany Ceramics Ltd.
+Construction
+Equity
+0.05%
+Uttar Pradesh State
+Others
+SDL
+0.05%
+Haryana State
+Others
+SDL
+0.05%
+Bank Of Baroda
+Financial
+CD
+0.05%
+India Universal Trust AL1
+Others
+Sec. Debt
+0.05%
+Karnataka State
+Others
+SDL
+0.04%
+Mahanagar Gas Ltd.
+Energy
+Equity
+0.04%
+GAIL (India) Ltd.
+Energy
+Futures
+0.04%
+Godrej Properties Ltd.
+Construction
+Bonds
+0.04%
+International Gemological Institute Ltd.
+Consumer Discretionary
+Equity
+0.04%
+Deepak Fertilisers And Petrochemicals Corporation Ltd.
+Chemicals
+Equity
+0.04%
+PI Industries Ltd.
+Chemicals
+Futures
+0.03%
+TVS Motor Company Ltd - Pref. Shares
+Automobile
+Pref. Shares
+0.03%
+Berger Paints India Ltd.
+Chemicals
+Equity
+0.03%
+Sandhar Technologies Ltd.
+Automobile
+Equity
+0.03%
+Odisha State
+Financial
+SDL
+0.03%
+Oberoi Realty Ltd.
+Construction
+Futures
+0.03%
+Hindustan Aeronautics Ltd.
+Capital Goods
+Equity
+0.03%
+Karnataka State
+Others
+SDL
+0.03%
+Maharashtra State
+Others
+SDL
+0.03%
+R R Kabel Ltd.
+Consumer Discretionary
+Equity
+0.02%
+PDS Ltd.
+Services
+Equity
+0.02%
+Siemens Ltd.
+Capital Goods
+Equity
+0.02%
+India Universal Trust AL1
+Others
+Sec. Debt
+0.02%
+Export-Import Bank Of India
+Financial
+CD
+0.02%
+Shree Cement Ltd.
+Construction
+Equity
+0.02%
+Cipla Ltd.
+Healthcare
+Equity
+0.02%
+Bajaj Housing Finance Ltd.
+Financial
+Equity
+0.02%
+Tata Consumer Products Ltd.
+Consumer Staples
+Equity
+0.01%
+Asian Paints Ltd.
+Chemicals
+Equity
+0.01%
+West Bengal State
+Others
+SDL
+0.01%
+GOI
+Sovereign
+GOI Sec
+0.01%
+Blue Star Ltd.
+Consumer Discretionary
+Futures
+0.01%
+Jagran Prakashan Ltd.
+Consumer Staples
+Equity
+0.01%
+Galaxy Surfactants Ltd.
+Chemicals
+Equity
+0.01%
+GOI
+Sovereign
+GOI Sec
+0.01%
+Uttar Pradesh State
+Others
+SDL
+0.00%
+Deepak Nitrite Ltd.
+Chemicals
+Equity
+0.00%
+Sumitomo Chemical India Ltd.
+Chemicals
+Equity
+0.00%
+GOI
+Sovereign
+GOI Sec
+0.00%
+Bajaj Electricals Ltd.
+Consumer Discretionary
+Equity
+0.00%
+SBI Cards And Payment Services Ltd.
+Financial
+Equity
+0.00%
+Ultratech Cement Ltd.
+Construction
+Futures
+-0.00%
+NTPC Ltd.
+Energy
+Futures
+-0.00%
+Trent Ltd.
+Services
+Futures
+-0.00%
+Kotak Mahindra Bank Ltd.
+Financial
+Futures
+-0.00%
+ITC Ltd.
+Consumer Staples
+Futures
+-0.00%
+Oil And Natural Gas Corporation Ltd.
+Energy
+Futures
+-0.00%
+Sun Pharmaceutical Industries Ltd.
+Healthcare
+Futures
+-0.00%
+Indian Oil Corporation Ltd.
+Energy
+Futures
+-0.11%
+Indusind Bank Ltd.
+Financial
+Futures
+-0.34%
+See All
+Minimum investments
+Min. for 1st investment
+₹5,000
+Min. for 2nd investment
+₹1,000
+Min. for SIP
+₹100
+Understand terms
+Annualised returns
+Average of the yearly returns of a mutual fund over a given period.
+Absolute returns
+The total return of a mutual fund over a given period.
+Returns and rankings
+Annualised returns
+Absolute returns
+Name
+3Y
+5Y
+10Y
+All
+Fund returns
++16.5%
++16.8%
++16.3%
++16.4%
+Category average (
+Hybrid Aggressive Hybrid
+)
++14.3%
++13.9%
++12.0%
+--
+Rank (
+Hybrid Aggressive Hybrid
+)
+3
+3
+2
+--
+Understand terms
+Expense ratio
+A fee payable to a mutual fund house for managing your mutual fund investments.     It is the total percentage of a company's fund assets used for administrative, management, advertising, and other expenses.
+Tax
+A percentage of your capital gains payable to the government upon exiting your mutual fund investments.     Taxation is categorized as long-term capital gains (LTCG) and short-term capital gains (STCG) depending on your holding period and the type of fund.
+Exit load
+A fee payable to a mutual fund house for exiting a fund (fully or partially) before the completion of a specified period from the date of investment.
+Stamp duty
+A form of tax payable for the purchase or sale of an asset or security.
+Exit Load
+02 May 2022
+For units in excess of 30% of the investment,1% will be charged for redemption within 365 days
+02 May 2022
+Exit load for units in excess of 30% of the investment,1% will be charged for redemption within 365 days
+10 Nov 2016
+For units in excess of 10% of the investment,1% will be charged for redemption within 1 year
+08 Dec 2015
+Exit load of 1% if redeemed within 1 year
+06 Apr 2015
+Exit load of 1% if redeemed within 1 year
+05 Mar 2015
+Exit load of 1% if redeemed within 3 years
+19 Jan 2015
+Exit load of 1% if redeemed within 18 months
+07 May 2013
+Exit load of 1% if redeemed within 12 months
+01 Jan 2013
+Exit load of 1.00% is applicable if units are redeemed within a period of 15 months from the date of allotment.
+Exit load, stamp duty and tax
+Exit load
+Exit load for units in excess of 30% of the investment,1% will be charged for redemption within 365 days
+Stamp duty on investment:
+0.005% (from July 1st, 2020)
+from July 1st 2020
+Tax implication
+If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.
+Check past data
+Compare similar funds
+Name
+1Y
+3Y
+Fund Size(Cr)
+ICICI Prudential Equity & Debt Fund Direct Growth
++2.49%
++16.49%
+50,367.73
+Edelweiss Aggressive Hybrid Fund Direct Growth
++2.17%
++15.56%
+3,627.22
+SBI Equity Hybrid Fund Direct Plan Growth
++4.22%
++13.92%
+83,353.48
+Nippon India Aggressive Hybrid Fund Direct Growth
++0.86%
++12.83%
+3,958.21
+Franklin India Aggressive Hybrid Fund Direct Growth
+-2.71%
++12.34%
+2,305.63
+Compare
+Fund management
+MK
+Mittul Kalawadia
+Dec 2020
+- Present
+View details
+Education
+Mr. Kalawadia is a B.Com. from Mithibai College, M.Com. from University of Mumbai and CA. from ICAI.
+Experience
+He has been associated with ICICI Prudential since 2012.
+Also manages these schemes
+ICICI Prudential Equity & Debt Fund Direct Growth
+ICICI Prudential ELSS Tax Saver Direct Plan Growth
+iSIF Equity Long Short Fund Direct Growth
+ICICI Prudential Dividend Yield Equity Fund Direct Growth
+ICICI Prudential ESG Exclusionary Strategy Fund Direct Growth
+SD
+Sharmila D'Silva
+May 2024
+- Present
+View details
+Education
+Ms. D'Silva is CA and BAF
+Experience
+She joined ICICI Prudential AMC Limited in September 2016.
+Also manages these schemes
+ICICI Prudential Midcap Direct Plan Growth
+ICICI Prudential Large & Mid Cap Fund Direct Plan Growth
+ICICI Prudential Balanced Advantage Direct Growth
+ICICI Prudential Value Direct Growth
+ICICI Prudential Banking and Financial Services Direct Plan Growth
+ICICI Prudential Multicap Fund Direct Plan Growth
+ICICI Prudential Multi Asset Fund Direct Growth
+ICICI Prudential Large Cap Fund Direct Growth
+ICICI Prudential Arbitrage Direct Growth
+ICICI Prudential Infrastructure Direct Growth
+ICICI Prudential Focused Equity Fund Direct Growth
+ICICI Prudential Liquid Fund Direct Plan Growth
+ICICI Prudential Regular Savings Fund Direct Growth
+ICICI Prudential Exports and Services Fund Direct Growth
+ICICI Prudential Multi Sector Passive FoF Direct Growth
+ICICI Prudential Dynamic Asset Allocation Active FoF Direct Growth
+ICICI Prudential Equity & Debt Fund Direct Growth
+ICICI Prudential ELSS Tax Saver Direct Plan Growth
+ICICI Prudential Children's Fund Direct Growth
+ICICI Prudential Technology Direct Plan Growth
+ICICI Prudential US Bluechip Equity Direct Plan Growth
+ICICI Prudential Active Momentum Fund Direct Growth
+ICICI Prudential Diversified Equity All Cap Active FoF Direct Growth
+iSIF Active Asset Allocator Long Short Fund Direct Growth
+ICICI Prudential Equity Savings Fund Direct Growth
+ICICI Prudential Global Stable Equity Fund (FOF) Direct Growth
+ICICI Prudential Dividend Yield Equity Fund Direct Growth
+ICICI Prudential Long Term Wealth Enhancement Fund Direct Growth
+ICICI Prudential Housing Opportunities Fund Direct Growth
+ICICI Prudential Transportation and Logistics Fund Direct Growth
+ICICI Prudential Innovation Fund Direct Growth
+ICICI Prudential Energy Opportunities Fund Direct Growth
+ICICI Prudential MNC Fund Direct Growth
+ICICI Prudential Global Advantage Fund (FOF) Direct Growth
+ICICI Prudential Commodities Fund Direct Growth
+ICICI Prudential Pharma Healthcare and Diagnostics (P.H.D) Fund Direct Growth
+ICICI Prudential Diversified Equity All Cap Omni FoF Direct Growth
+ICICI Prudential Manufacturing Fund Direct Growth
+ICICI Prudential ESG Exclusionary Strategy Fund Direct Growth
+ICICI Prudential Flexicap Fund Direct Growth
+ICICI Prudential India Opportunities Fund Direct Growth
+ICICI Prudential Retirement Fund Pure Equity Plan Direct Growth
+ICICI Prudential Retirement Fund Hybrid Aggressive Plan Direct Growth
+ICICI Prudential NASDAQ 100 Index Fund Direct Growth
+ICICI Prudential Retirement Fund Hybrid Conservative Plan Direct Growth
+ICICI Prudential Retirement Fund Pure Debt Plan Direct Growth
+ICICI Prudential Passive Multi Asset FoF Direct Growth
+ICICI Prudential Strategic Metal and Energy Equity FoF Direct Growth
+NM
+Nitya Mishra
+Nov 2024
+- Present
+View details
+Education
+Ms. Mishra has done B.Tech, MBA (Finance) and CFA
+Experience
+Prior to joining ICIC Prudential Mutual Fund, she has worked with SBI Capital Markets and CRISIL Ltd.
+Also manages these schemes
+ICICI Prudential Equity & Debt Fund Direct Growth
+ICICI Prudential FMCG Direct Growth
+ICICI Prudential US Bluechip Equity Direct Plan Growth
+iSIF Equity Long Short Fund Direct Growth
+ICICI Prudential Equity Minimum Variance Fund Direct Growth
+ICICI Prudential Energy Opportunities Fund Direct Growth
+ICICI Prudential NASDAQ 100 Index Fund Direct Growth
+AK
+Akhil Kakkar
+Jan 2024
+- Present
+View details
+Education
+Mr. Kakkar is B.Tech (IIT Roorkee) and PGDM (Finance)
+Experience
+Prior to Joining ICICI Prudential Mutual Fund he has worked with Kotak Mahindra Bank in Debt Capital Markets, SBI Capital Markets in Project Advisory & Structured Finance and Goldman Sachs Services Pvt Ltd as Analyst Developer.
+Also manages these schemes
+ICICI Prudential Balanced Advantage Direct Growth
+ICICI Prudential Medium Term Bond Fund Direct Plan Growth
+ICICI Prudential Multi Asset Fund Direct Growth
+ICICI Prudential Regular Savings Fund Direct Growth
+ICICI Prudential Credit Risk Fund Direct Plan Growth
+ICICI Prudential Equity & Debt Fund Direct Growth
+iSIF Hybrid Long Short Fund Direct Growth
+iSIF Active Asset Allocator Long Short Fund Direct Growth
+SN
+Sankaran Naren
+Dec 2015
+- Present
+View details
+Education
+Mr. Naren is a B.Tech from IIT Chennai and MBA (Finance)from IIM Kolkata.
+Experience
+Prior to joining ICICI Prudential AMC he has worked with Refco Sify Securities India Pvt. Ltd., HDFC Securities Ltd. and Yoha Securities.
+Also manages these schemes
+ICICI Prudential Value Direct Growth
+ICICI Prudential Multi Asset Fund Direct Growth
+ICICI Prudential Large Cap Fund Direct Growth
+ICICI Prudential Exports and Services Fund Direct Growth
+ICICI Prudential Multi Sector Passive FoF Direct Growth
+ICICI Prudential Aggressive Hybrid Active FoF Direct Growth
+ICICI Prudential Equity & Debt Fund Direct Growth
+iSIF Equity Ex Top 100 Long Short Fund Direct Growth
+ICICI Prudential India Opportunities Fund Direct Growth
+SS
+Sri Sharma
+Apr 2021
+- Present
+View details
+Education
+Ms. Sharma has done B.Com, CA and CFA ( Level 2 cleared)
+Experience
+Prior to joining ICICI Prudential Mutual Fund, she has worked with PwC
+Also manages these schemes
+ICICI Prudential Balanced Advantage Direct Growth
+ICICI Prudential Multi Asset Fund Direct Growth
+ICICI Prudential Exports and Services Fund Direct Growth
+ICICI Prudential Equity & Debt Fund Direct Growth
+iSIF Equity Long Short Fund Direct Growth
+ICICI Prudential Equity Savings Fund Direct Growth
+MB
+Manish Banthia
+Sep 2013
+- Present
+View details
+Education
+Mr. Banthia is B.Com, CA and MBA
+Experience
+He is associated with ICICI Prudential Asset Management Company since Oct 2005, ICICI Prudential AMC - Fixed Income Investments - Aug 2007 to Oct 2009, ICICI Prudential AMC - New Product Development - Oct 2005 to Jul 2007, Aditya Birla Nuvo Ltd. - From May 2005 to Oct 2005, Aditya Birla Management Corporation Ltd. - From May 2004 to May 2005.
+Also manages these schemes
+ICICI Prudential Banking & PSU Debt Direct Growth
+ICICI Prudential Balanced Advantage Direct Growth
+ICICI Prudential Short Term Fund Direct Plan Growth
+ICICI Prudential Medium Term Bond Fund Direct Plan Growth
+ICICI Prudential Multi Asset Fund Direct Growth
+ICICI Prudential Corporate Bond Fund Direct Plan Growth
+ICICI Prudential All Seasons Bond Fund Direct Plan Growth
+ICICI Prudential Long Term Bond Fund Direct Plan Growth
+ICICI Prudential Gilt Fund Direct Plan Growth
+ICICI Prudential Money Market Direct Growth
+ICICI Prudential Regular Savings Fund Direct Growth
+ICICI Prudential Ultra Short Term Fund Direct Growth
+ICICI Prudential Gold ETF FoF Direct Growth
+ICICI Prudential Credit Risk Fund Direct Plan Growth
+ICICI Prudential Bond Fund Direct Plan Growth
+ICICI Prudential Income Plus Arbitrage Omni FoF Direct Growth
+ICICI Prudential Dynamic Asset Allocation Active FoF Direct Growth
+ICICI Prudential Aggressive Hybrid Active FoF Direct Growth
+ICICI Prudential Diversified Debt Strategy Active FoF Direct Growth
+ICICI Prudential Equity & Debt Fund Direct Growth
+iSIF Hybrid Long Short Fund Direct Growth
+iSIF Active Asset Allocator Long Short Fund Direct Growth
+ICICI Prudential Equity Savings Fund Direct Growth
+ICICI Prudential Constant Maturity Gilt Fund Direct Growth
+ICICI Prudential Business Cycle Fund Direct Growth
+ICICI Prudential Passive Multi Asset FoF Direct Growth
+ICICI Prudential Silver ETF FoF Direct Growth
+About
+ICICI Prudential Equity & Debt Fund Direct Growth
+ICICI Prudential Equity & Debt Fund Direct Growth is a Hybrid Mutual Fund Scheme launched by ICICI Prudential Mutual Fund. This scheme was made available to investors on 12 Oct 1993. Mittul Kalawadia is the Current Fund Manager of ICICI Prudential Equity & Debt Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹11,12,891 Cr and the Latest NAV as of 04 Jun 2026 is ₹437.17.
+The ICICI Prudential Equity & Debt Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹5,000. Exit load for units in excess of 30% of the investment,1% will be charged for redemption within 365 days
+;
+Investment Objective
+The scheme seeks to generate long-term capital appreciation and current income by investing in a portfolio that is investing in equities and related securities as well as fixed income and money market securities. The approximate allocation to equity would be in the range of 60-80 per cent with a minimum of 51 per cent, and the approximate debt allocation is 40-49 per cent, with a minimum of 20 per cent.
+;
+Fund benchmark
+CRISIL Hybrid 35+65 Aggressive Index
+Scheme Information Document(SID)
+Fund house
+ICICI Prudential Mutual Fund
+Rank (total assets)
+#3 in India
+Total AUM
+₹11,12,891.15 Cr
+Date of Incorporation
+12 Oct 1993
+Phone
+--
+E-mail
+--
+Website
+http://www.icicipruamc.com
+Launch Date
+12 Oct 1993
+Address
+One BKC ,  A Wing ,13th Floor, Bandra Kurla Complex, Mumbai 400051
+Custodian
+HDFC Bank
+Registrar & Transfer Agent
+Cams
+Email
+[email protected]
+Website
+www.camsonline.com
+Address
+7th Floor, Tower II, Rayala Towers, 158, Anna Salai,
+Home
+>
+Mutual Funds
+>
+ICICI Prudential Mutual Fund
+>
+ICICI Prudential Equity & Debt Fund Direct Growth
+Vaishnavi Tech Park, South Tower, 3rd Floor
+Sarjapur Main Road, Bellandur, Bengaluru – 560103
+Karnataka
+Contact Us
+Download the App
+GROWW
+About Us
+Pricing
+Blog
+Media & Press
+Careers
+Help & Support
+Trust & Safety
+Investor Relations
+PRODUCTS
+Stocks
+F&O
+MTF
+ETF
+IPO
+Mutual Funds
+Commodities
+Groww Terminal
+915 Terminal
+Stock Screens
+Algo Trading
+Groww Charts
+Groww Digest
+Demat Account
+Groww AMC
+PMS
+© 2016-
+2026
+Groww. All rights reserved.
+Version:
+7.7.1
+Share Market
+Indices
+F&O
+Mutual Funds
+ETFs
+Funds By Groww
+Calculators
+IPO
+Miscellaneous
+Top Gainers Stocks
+52 Weeks High Stocks
+Tata Motors
+NHPC
+ITC
+Wipro
+BSE
+NTPC
+Top Losers Stocks
+52 Weeks Low Stocks
+IREDA
+State Bank of India
+Adani Power
+CDSL
+Cochin Shipyard
+SJVN
+Most Traded Stocks
+Stocks Market Calender
+Tata Steel
+Tata Power
+Bharat Heavy Electricals
+Indian Oil Corporation
+HUDCO
+SAIL
+Stocks Feed
+Suzlon Energy
+Zomato (Eternal)
+Yes Bank
+Infosys
+NBCC
+IRCTC
+Share Market Live Update
+FII DII Activity
+IRFC
+Bharat Electronics
+HDFC Bank
+Vedanta
+Reliance Power
+Jaiprakash Power Ventures
+Stocks Sectors
+NIFTY 50
+NIFTY Midcap 100
+NIFTY 100
+US Tech 100
+NIFTY Realty
+Nikkei index
+SENSEX
+NIFTY Smallcap 100
+NIFTY Auto
+Dow Jones Futures
+NIFTY PSU Bank
+NIFTY FMCG
+NIFTY BANK
+NIFTY MIDCAP 150
+KOSPI Index
+Dow Jones Index
+Gift Nifty
+BSE BANKEX
+India VIX
+NIFTY Pharma
+HANG SENG Index
+BSE 100
+FTSE 100 Index
+S&P 500
+NIFTY NEXT 50
+NIFTY Metal
+DAX Index
+NIFTY Fin Service
+CAC Index
+Nifty Pvt Bank
+NIFTY Bank Options
+SBI Options
+Bajaj Finance Options
+Axis Bank Options
+Hindustan Unilever Options
+NIFTY Bank Futures
+Finnifty Futures
+ITC Futures
+ICICI Bank Futures
+Biocon Futures
+Indusind Bank Futures
+Crude Oil Mini Future Price
+Gold Petal Future Price
+Silver Micro Future Price
+Nickel Future Price
+Natural Gas Mini MCX Option Chain
+Copper MCX Option Chain
+NIFTY 50 Options
+HDFC Bank Options
+Wipro  Options
+DLF Options
+REC  Options
+Yes Bank Futures
+Zomato Futures
+Ashok Leyland Futures
+HDFC Bank Futures
+UPL Futures
+Adani Enterprises Futures
+Gold Future Price
+Natural Gas Future Price
+Zinc Future Price
+Gold MCX Option Chain
+Gold Mini MCX Option Chain
+Commodities Expiry Calendar
+Bse Sensex Options
+Tata Steel Options
+NTPC Options
+Bajaj Auto Options
+Indusind Bank Options
+Tata Motors Futures
+Infosys Futures
+Asian Paints Futures
+Lupin Futures
+Cipla Futures
+IDFC First Bank Futures
+Gold Mini Future Price
+Natural Gas Mini Future Price
+Copper Future Price
+Crude Oil MCX Option Chain
+Silver MCX Option Chain
+Finnifty Options
+Infosys Options
+Asian Paints Options
+Coal India Options
+Ashok Leyland Options
+Tata Steel Futures
+BSE Sensex Futures
+Wipro Futures
+DLF Futures
+Bajaj Finance Futures
+Piramal Enterprises Futures
+Gold Ten Future Price
+Silver Future Price
+Aluminium Future Price
+Crude Oil Mini MCX Option Chain
+Silver Mini MCX Option Chain
+Tata Motors Options
+ITC Options
+ICICI Bank Options
+Adani Enterprises Options
+NIFTY 50 Futures
+Coal India Futures
+Axis Bank Futures
+Vedanta Futures
+Reliance Industries Futures
+Hindustan Copper Futures
+Crude Oil Future Price
+Gold Guinea Future Price
+Silver Mini Future Price
+Electricity Future Price
+Natural Gas MCX Option Chain
+Zinc MCX Option Chain
+MF Screener
+Debt Mutual Funds
+Best Multicap Mutual funds
+Best Contra Mutual funds
+Best Conservative Hybrid Mutual funds
+SBI Contra Fund
+Nippon India Nifty 500 Momentum 50 Index Fund
+HDFC Balanced Advantage Fund
+Quant Mid Cap Fund
+Bank of India Small Cap Fund
+Quant Multi Asset Fund
+Nippon India
+TATA
+Bandhan
+Edelweiss
+HSBC
+Union
+Quantum
+Shriram
+Compare Mutual Funds
+Best Debt Mutual funds
+Best Large Cap Mutual funds
+Best Value Oriented Mutual funds
+Parag Parikh Flexi Cap Fund
+HDFC Mid Cap Opportunities Fund
+Motilal Oswal Nifty India Defence Index Fund
+ICICI Prudential India Opportunities Fund
+Kotak Small Cap Fund
+Canara Robeco Bluechip Equity Fund
+GrowwMF
+Motilal Oswal
+Aditya Birla
+Axis
+Bank of India
+Bajaj Finserv
+Helios
+ITI
+Trust
+MF Knowledge Centre
+Best Equity Mutual funds
+Best Small Cap Mutual funds
+Best Arbitrage Mutual funds
+Motilal Oswal Midcap Fund
+SBI Small Cap Fund
+HDFC Small Cap Fund
+Kotak Multicap Fund
+ICICI Prudential Infrastructure Fund
+Bandhan Nifty Alpha 50 Index Fund
+SBI
+Quant
+Mirae Asset
+DSP
+Baroda BNP Paribas
+Mahindra Manulife
+Sundaram
+Samco
+Taurus
+Mutual Fund Houses
+Best Hybrid Mutual funds
+Best ELSS Mutual funds
+Best Dividend Yield Mutual funds
+Nippon India Small Cap Fund
+HDFC Flexi Cap Fund
+Tata Small Cap Fund
+Tata Ethical Fund
+Mirae Asset ELSS Tax Saver Fund
+Quant Infrastructure Fund
+HDFC
+PPFAS
+UTI
+Kotak Mahindra
+Zerodha
+Invesco
+Navi
+PGIM
+Mutual Funds Categories
+Best MidCap Mutual funds
+Best Sectoral Mutual funds
+Best Aggressive Hybrid Mutual funds
+Quant Small Cap Fund
+SBI Magnum Children's Benefit Fund
+UTI Nifty 50 Index Fund
+JM Flexicap Fund
+HSBC Small Cap Fund
+Franklin India Multi Cap Fund
+ICICI Prudential
+LIC
+Canara Robeco
+Whiteoak
+Franklin Templeton
+NJ
+JM
+360 One
+International
+Silver
+Midcap
+Liquid
+Debt
+Index
+Bank Nifty
+Nifty IT
+Equity
+Nifty 50
+Nifty Metal
+Nifty Auto
+Commodity
+Nifty Next 50
+Healthcare
+Groww
+Gold
+Sensex
+Defence
+Groww Arbitrage Fund
+Groww ELSS Tax Saver Fund
+Groww Banking & Financial Services Fund
+Groww Gold ETF FOF
+Groww Gold ETF
+Groww Short Duration Fund
+Groww Aggressive Hybrid Fund
+Groww Nifty Smallcap 250 Index Fund
+Groww Multicap Fund
+Groww Nifty India Defence ETF
+Groww Liquid Fund
+Groww Dynamic Bond Fund
+Groww Nifty Non Cyclical Consumer Index Fund
+Groww Nifty India Railways PSU Index Fund
+Groww Nifty India Railways ETF
+Groww Large Cap Fund
+Groww Overnight Fund
+Groww Nifty EV & New Age Automotive ETF FoF
+Groww Nifty 200 ETF FoF
+Groww Value Fund
+Groww Nifty Total Market Index Fund
+Groww Nifty India Defence ETF FoF
+Groww Silver ETF
+SIP Calculator
+Brokerage Calculator
+RD Calculator
+HRA Calculator
+Home Loan EMI Calculator
+Lumpsum Calculator
+Margin Calculator
+FD Calculator
+Salary Calculator
+ROI Calculator
+SWP Calculator
+Stock Average Calculator
+EPF Calculator
+TDS Calculator
+MF Calculator
+SSY Calculator
+Income Tax Calculator
+EMI Calculator
+Step-Up SIP Calculator
+PPF Calculator
+GST Calculator
+Car Loan EMI Calculator
+What is IPO?
+IPO Subscription Status
+IPO Allotment Status
+Open IPOs
+How to Apply for an IPO
+Upcoming IPOs
+What is Grey Market Premium?
+Closed IPOs
+Mainboard IPOs
+IPO GMP
+SME IPOs
+NFO
+Pricing
+Trust & Safety
+Groww Digest
+Intraday
+Blog
+Investor Relations
+Invest in Gold
+Corporate Bonds
+Media & Press
+Gold Rates
+Invest in Silver
+HUF Demat Account
+Careers
+Silver Rates
+Sitemap
+About Us
+Help & Support
+Glossary
+Show More
+Others:
+NSE
+BSE
+MCX
+Terms and Conditions
+Policies and Procedures
+Regulatory & Other Info
+Privacy Policy
+Disclosure
+SMART ODR
+Download Forms
+Information Security Practices
+Investor Charter and Grievance
+Bug Bounty
+Mutual Funds
+:
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+Others
+Stocks
+:
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+Others

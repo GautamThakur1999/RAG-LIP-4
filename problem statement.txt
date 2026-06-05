@@ -1,0 +1,214 @@
+MUTUAL FUND FAQ ASSISTANT — FACTS-ONLY Q&A
+Problem Statement
+
+============================================================
+PRODUCT SELECTION
+============================================================
+Chosen product: Groww (from the list: INDMoney, Groww, PowerUp Money,
+Wealth Monitor, Kuvera).
+
+Note: The next LIP challenge will use this same product.
+
+------------------------------------------------------------
+SELECTED SCOPE (LOCKED)
+------------------------------------------------------------
+AMC: ICICI Prudential Mutual Fund
+   Official site: https://www.icicipruamc.com
+   (Largest Indian AMC; per-scheme pages + Downloads hub for
+   SID / KIM / factsheet; NAV / expense data updated daily.)
+
+Schemes (3):
+   * Large-cap : ICICI Prudential Bluechip Fund
+                 https://www.icicipruamc.com/mutual-fund/equity-funds/icici-prudential-bluechip-fund
+   * Flexi-cap : ICICI Prudential Flexicap Fund
+   * ELSS      : ICICI Prudential ELSS Tax Saver Fund (3-year lock-in)
+                 slug: icici-prudential-long-term-equity-fund-tax-saving
+
+Plan type to index: Direct - Growth (lower expense ratio, no
+distributor commission, profits stay invested; chosen for
+consistency so each scheme has one unambiguous set of figures).
+
+Sourcing rule: Corpus URLs come from the official AMC site + AMFI / SEBI
+ONLY - not Groww / aggregator pages.
+
+
+============================================================
+1. OVERVIEW
+============================================================
+The objective of this project is to build a facts-only FAQ assistant for
+mutual fund schemes, using Groww as the reference product context. The
+assistant answers objective, verifiable queries related to mutual funds by
+retrieving information exclusively from official public sources such as AMC
+(Asset Management Company) websites, AMFI, and SEBI.
+
+The system must strictly avoid providing investment advice, opinions, or
+recommendations. Every response must include a single, clear source link and
+adhere to defined constraints around clarity, accuracy, and compliance.
+
+The milestone is to build a small FAQ assistant that answers facts about
+mutual fund schemes — e.g., expense ratio, exit load, minimum SIP, lock-in
+(ELSS), riskometer, benchmark, fund management details (fund manager,
+fund house, category, inception date), and how to download statements —
+using only official public pages. Every answer must include one source
+link. No advice.
+
+
+============================================================
+2. OBJECTIVE
+============================================================
+Design and implement a lightweight Retrieval-Augmented Generation (RAG)-based
+assistant that:
+
+* Answers factual queries about mutual fund schemes
+* Uses a curated corpus of official documents
+* Provides concise, source-backed responses
+
+
+============================================================
+3. TARGET USERS
+============================================================
+* Retail investors comparing mutual fund schemes
+* Customer support and content teams handling repetitive mutual fund queries
+
+
+============================================================
+4. SCOPE OF WORK
+============================================================
+
+4.1 Corpus Definition
+---------------------
+* Selected AMC: ICICI Prudential Mutual Fund (official site:
+  https://www.icicipruamc.com).
+* Selected schemes (3): ICICI Prudential Bluechip Fund (large-cap),
+  ICICI Prudential Flexicap Fund (flexi-cap), and ICICI Prudential
+  ELSS Tax Saver Fund (ELSS, 3-year lock-in).
+* Collect 15–25 official public URLs, including:
+   * Scheme factsheets
+   * KIM (Key Information Memorandum)
+   * SID (Scheme Information Document)
+   * AMC FAQ / help pages
+   * Fee / charges pages
+   * Riskometer / benchmark notes
+   * AMFI / SEBI guidance pages
+   * Statement and tax-document download guides
+
+4.2 FAQ Assistant Requirements (Working Prototype)
+---------------------
+The assistant must answer facts-only queries, such as:
+   * Expense ratio of a scheme
+   * Exit load details
+   * Minimum SIP amount
+   * ELSS lock-in period
+   * Riskometer classification
+   * Benchmark index
+   * Fund management details (e.g., fund manager name(s), "managing
+     since" date, fund house / AMC, scheme category, inception /
+     launch date) - factual identity data only, no performance
+   * Process to download statements or capital-gains reports
+
+The assistant must ensure that:
+   * Each response is limited to a maximum of 3 sentences
+   * Each response includes exactly one citation link
+   * Each response includes a footer: "Last updated from sources: <date>"
+
+4.3 Refusal Handling
+---------------------
+The assistant must refuse non-factual or advisory queries, such as:
+   * "Should I invest in this fund?"
+   * "Which fund is better?"
+   * "Should I buy / sell?"
+
+Refusal responses should:
+   * Be polite and clearly worded
+   * Reinforce the facts-only limitation
+   * Provide a relevant educational link (e.g., AMFI or SEBI resource)
+
+4.4 User Interface (Minimal)
+---------------------
+The solution should include a simple interface with:
+   * A welcome message / welcome line
+   * Three example questions
+   * A visible disclaimer: "Facts-only. No investment advice."
+
+
+============================================================
+5. CONSTRAINTS
+============================================================
+
+5.1 Data and Sources
+---------------------
+* Use only official public sources (AMC, AMFI, SEBI).
+* No screenshots of the app back-end.
+* Do not use third-party blogs or aggregator websites as sources.
+
+5.2 Privacy and Security (No PII)
+---------------------
+Do not accept, collect, store, or process:
+   * PAN or Aadhaar numbers
+   * Account numbers
+   * OTPs
+   * Email addresses or phone numbers
+
+5.3 Content Restrictions
+---------------------
+* No investment advice or recommendations.
+* No performance claims.
+* No performance comparisons or return calculations.
+* For performance-related queries, provide a link to the official factsheet
+  only.
+
+5.4 Transparency and Clarity
+---------------------
+* Responses must be short, factual, and verifiable.
+* Keep answers <= 3 sentences.
+* Every answer must include a source link and a last-updated date
+  ("Last updated from sources: <date>").
+
+
+============================================================
+6. EXPECTED DELIVERABLES
+============================================================
+1. Working prototype link (app / notebook), or a <= 3-minute demo video if
+   hosting isn't possible.
+2. Source list (CSV / MD) of the 15–25 URLs used.
+3. README Document, including:
+   * Setup instructions / steps
+   * Scope: selected AMC and schemes
+   * Architecture overview (RAG approach)
+   * Known limitations
+4. Sample Q&A file (5–10 queries with the assistant's answers + links).
+5. Disclaimer snippet used in the UI: "Facts-only. No investment advice."
+
+
+============================================================
+7. SKILLS BEING TESTED
+============================================================
+* W1 — Thinking Like a Model: identify the exact fact asked; decide answer
+  vs. refuse.
+* W2 — LLMs & Prompting: instruction style, concise phrasing, polite
+  safe-refusals, citation wording.
+* W3 — RAGs (only): small-corpus retrieval with accurate citations from
+  AMC / SEBI / AMFI pages.
+
+
+============================================================
+8. SUCCESS CRITERIA
+============================================================
+* Accurate retrieval of factual mutual fund information.
+* Strict adherence to facts-only responses.
+* Consistent inclusion of valid source citations.
+* Proper refusal of advisory queries.
+* Clean, minimal, and user-friendly interface.
+
+
+============================================================
+9. SUMMARY
+============================================================
+The goal is to build a trustworthy, transparent, and compliant mutual fund
+FAQ assistant that prioritizes accuracy over intelligence. The system should
+ensure that users receive only verified, source-backed financial information,
+without any advisory bias or speculative content. Built on a small-corpus RAG
+approach over official AMC / AMFI / SEBI pages, every answer is concise
+(<= 3 sentences), carries exactly one citation link, and shows the date it was
+last updated from sources — while politely refusing any advisory, opinionated,
+or performance-comparison request.

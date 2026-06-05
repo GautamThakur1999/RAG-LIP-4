@@ -1,0 +1,28 @@
+URL: https://www.icicipruamc.com/mutual-fund/equity-funds/icici-prudential-elss-tax-saver-fund
+Type: overview
+Scheme: elss
+Fetched: 2026-06-04 08:15:43
+As On Date: 31-May-2026
+----------------------------------------
+ICICI Prudential ELSS Tax Saver Fund Overview
+
+Fund Managers: Harish Bihani, Sharmila D'mello
+Scheme Category: ELSS (Equity Linked Savings Scheme)
+Inception Date: 19-Aug-1999
+
+Investment Objective:
+To generate long-term capital appreciation by investing predominantly in equity and equity related instruments, while also offering tax benefits under Section 80C of the Income Tax Act, 1961.
+
+Key Facts:
+- Minimum SIP amount is ₹500.
+- Minimum lump sum investment is ₹500.
+- The scheme has a mandatory statutory lock-in period of 3 years from the date of allotment.
+- Because of the 3-year lock-in period, there is a Nil exit load. Investors cannot redeem their units before the completion of 3 years.
+- The expense ratio for the Direct Plan is approximately 1.09% and for the Regular Plan is 1.78%.
+- Benchmark: Nifty 500 TRI.
+- Risk-o-meter: Very High Risk.
+- Tax Benefit: Investments up to ₹1.5 Lakhs in a financial year qualify for deduction under Section 80C.
+
+Asset Allocation:
+- Equity and Equity related instruments: 80% to 100%
+- Debt & Money Market Instruments: 0% to 20%

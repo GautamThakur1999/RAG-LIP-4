@@ -1,0 +1,27 @@
+URL: https://www.icicipruamc.com/mutual-fund/equity-funds/icici-prudential-bluechip-fund
+Type: overview
+Scheme: bluechip
+Fetched: 2026-06-04 08:15:40
+As On Date: 31-May-2026
+----------------------------------------
+ICICI Prudential Bluechip Fund Overview
+
+Fund Managers: Anish Tawakley, Vaibhav Dusad, Sharmila D'mello
+Scheme Category: Large Cap Fund
+Inception Date: 23-May-2008
+
+Investment Objective:
+To generate long-term capital appreciation and income distribution to investors from a portfolio that is predominantly invested in equity and equity related securities of large cap companies.
+
+Key Facts:
+- Minimum SIP amount is ₹100.
+- Minimum lump sum investment is ₹100.
+- The scheme has an exit load of 1% if redeemed within 1 year from the date of allotment. Nil exit load after 1 year.
+- The expense ratio for the Direct Plan is approximately 0.95% and for the Regular Plan is 1.55%.
+- Benchmark: Nifty 100 TRI.
+- Risk-o-meter: Very High Risk.
+
+Asset Allocation:
+- Equity and Equity related instruments of Large Cap companies: 80% to 100%
+- Other Equities: 0% to 20%
+- Debt & Money Market Instruments: 0% to 20%

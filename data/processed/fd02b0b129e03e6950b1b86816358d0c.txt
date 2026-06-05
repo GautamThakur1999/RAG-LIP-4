@@ -1,0 +1,27 @@
+URL: https://www.icicipruamc.com/mutual-fund/equity-funds/icici-prudential-flexicap-fund
+Type: overview
+Scheme: flexicap
+Fetched: 2026-06-04 08:15:41
+As On Date: 31-May-2026
+----------------------------------------
+ICICI Prudential Flexicap Fund Overview
+
+Fund Managers: Rajat Chandak, Priyanka Khandelwal
+Scheme Category: Flexi Cap Fund
+Inception Date: 12-Jul-2021
+
+Investment Objective:
+To generate long-term capital appreciation by investing predominantly in equity and equity related instruments across market capitalization (large cap, mid cap, and small cap).
+
+Key Facts:
+- Minimum SIP amount is ₹100.
+- Minimum lump sum investment is ₹100.
+- The scheme has an exit load of 1% if redeemed within 1 year from the date of allotment. Nil exit load after 1 year.
+- The expense ratio for the Direct Plan is approximately 0.65% and for the Regular Plan is 1.82%.
+- Benchmark: Nifty 500 TRI.
+- Risk-o-meter: Very High Risk.
+
+Asset Allocation:
+- Equity and Equity related instruments across market capitalization: 65% to 100%
+- Debt & Money Market Instruments: 0% to 35%
+- Units issued by REITs and InvITs: 0% to 10%
