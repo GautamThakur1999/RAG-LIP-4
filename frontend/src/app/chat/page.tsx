@@ -5,6 +5,7 @@ import { useSearchParams } from 'next/navigation';
 import { Suspense } from 'react';
 
 type Message = {
+  id?: string;
   role: 'user' | 'assistant';
   content: string;
   citation?: string;
@@ -49,7 +50,7 @@ function ChatContent() {
         role: 'assistant',
         content: data.answer,
         citation: data.citation,
-        lastUpdated: data.last_updated,
+        last_updated: data.last_updated,
         kind: data.kind
       };
       
