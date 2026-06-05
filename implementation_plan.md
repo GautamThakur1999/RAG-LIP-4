@@ -329,7 +329,7 @@ The plan is split into small phases so the AI agent stays accurate. Working meth
 - [x] Phase 5 — generation contract (≤3 sentences, 1 citation, footer, verbatim numbers)
 - [x] Phase 6 — Streamlit UI (welcome, 3 examples, disclaimer)
 - [x] Phase 7 — eval set passing; sample_qa.md generated; threshold calibrated
-- [ ] Phase 8 — README + deliverables + demo link/video
+- [x] Phase 8 — README + deliverables + demo link/video
 
 ---
 
