@@ -1,12 +1,16 @@
+import json
 import os
 import pickle
 # NOTE: This retriever is BM25-only at runtime (no dense embeddings / ChromaDB),
 # so heavy deps (chromadb, sentence-transformers, torch) are intentionally NOT
 # imported here. This keeps the deployed backend slim. Do not add a top-level
 # `import chromadb` back — it would break the slim Railway deploy.
+from rank_bm25 import BM25Okapi
 from src.retrieve.scheme_match import detect_scheme
 
 DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(__file__))), "data")
+PROCESSED_DIR = os.path.join(DATA_DIR, "processed")
+CHUNKS_FILE = os.path.join(PROCESSED_DIR, "chunks.jsonl")
 BM25_FILE = os.path.join(DATA_DIR, "bm25_index.pkl")
 
 # We import settings locally or define here
@@ -25,8 +29,58 @@ class HybridRetriever:
                 self.bm25_data = pickle.load(f)
                 self.bm25 = self.bm25_data["bm25"]
             self.initialized = True
+            print(f"BM25 index loaded from {BM25_FILE}.")
         except Exception as e:
-            print(f"Retriever initialization failed (Index might not exist yet): {e}")
+            print(f"BM25 index not found or failed to load ({e}). Attempting to build from chunks...")
+            self._build_index_from_chunks()
+
+    def _build_index_from_chunks(self):
+        """Build the BM25 index from data/processed/chunks.jsonl and persist it.
+
+        If the build succeeds, self.initialized is set to True and the index is
+        saved to BM25_FILE so subsequent restarts skip this step.  If anything
+        goes wrong the error is logged and self.initialized is left as False so
+        the app still starts (health check will report the retriever as not ready).
+        """
+        try:
+            if not os.path.exists(CHUNKS_FILE):
+                raise FileNotFoundError(f"Chunks file not found: {CHUNKS_FILE}")
+
+            chunks = []
+            with open(CHUNKS_FILE, 'r', encoding='utf-8') as f:
+                for line in f:
+                    line = line.strip()
+                    if line:
+                        chunks.append(json.loads(line))
+
+            if not chunks:
+                raise ValueError("chunks.jsonl is empty — nothing to index.")
+
+            print(f"Building BM25 index from {len(chunks)} chunks...")
+
+            texts = [c["text"] for c in chunks]
+            metadatas = [c["metadata"] for c in chunks]
+            ids = [f"chunk_{i}" for i in range(len(chunks))]
+            tokenized_corpus = [doc.lower().split() for doc in texts]
+            bm25 = BM25Okapi(tokenized_corpus)
+
+            self.bm25_data = {
+                "bm25": bm25,
+                "ids": ids,
+                "texts": texts,
+                "metadatas": metadatas,
+            }
+            self.bm25 = bm25
+
+            # Persist so future restarts load instantly
+            with open(BM25_FILE, 'wb') as f:
+                pickle.dump(self.bm25_data, f)
+
+            print(f"BM25 index built and saved to {BM25_FILE} ({len(chunks)} chunks).")
+            self.initialized = True
+
+        except Exception as e:
+            print(f"ERROR: Failed to build BM25 index from chunks: {e}")
             self.initialized = False
 
     def retrieve(self, query: str):
